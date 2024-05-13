@@ -92,7 +92,8 @@ The project encompasses a comprehensive analysis of energy consumption data, inc
     
     ![1](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/152228350/d8dffe7c-556d-44bf-84b7-c73bb563e4bd)
 
-## Analysis:
+## Conclusion:
+In conclusion, based on these evaluation metrics, the models with Relu and Sigmoid activation functions outperform the model with regularization in terms of predictive accuracy and model fit. Therefore, either the Relu or Sigmoid model would be preferred for predicting energy consumption.
 
 ## Challenges Faced:
 __1. Dataset__:
